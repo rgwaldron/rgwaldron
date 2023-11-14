@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Robert Waldron
 - 👀 I’m interested in .net development, home automation, and the outdoors.
-- 🌱 I’m currently learning .net 7
 - 📫 How to reach me ... rgwaldron@gmail.com
 
 <!---
